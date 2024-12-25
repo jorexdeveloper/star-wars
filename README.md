@@ -15,10 +15,6 @@
 	</a>
 </p>
 
-<div align="center" ;background-color:black;border:3px solid black;border-radius:6px;margin:5px 0;padding:2px 5px">
-	<img src="./logo.webp" alt="Image could not be loaded!" style="color:red;background-color:black;font-weight:bold" />
-</div>
-
 Star Wars game made in scratch.
 
 <div style="overflow-x: auto; white-space: nowrap; text-align: center;">

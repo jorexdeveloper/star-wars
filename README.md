@@ -1,5 +1,20 @@
 # STAR WARS
 
+<p align="center">
+	<a href="https://github.com/jorexdeveloper/star-wars/stargazers">
+		<img
+			src="https://img.shields.io/github/stars/jorexdeveloper/star-wars?colorA=23272a&colorB=007bff&style=for-the-badge">
+	</a>
+	<a href="https://github.com/jorexdeveloper/star-wars/issues">
+		<img
+			src="https://img.shields.io/github/issues/jorexdeveloper/star-wars?colorA=23272a&colorB=ff4500&style=for-the-badge">
+	</a>
+	<a href="https://github.com/jorexdeveloper/star-wars/contributors">
+		<img
+			src="https://img.shields.io/github/contributors/jorexdeveloper/star-wars?colorA=23272a&colorB=28a745&style=for-the-badge">
+	</a>
+</p>
+
 Star Wars game made in scratch.
 
 <div style="overflow-x: auto; white-space: nowrap; text-align: center;">
